@@ -50,9 +50,16 @@ Using **deep learning models**, this project detects leukocytes with bounding bo
    - Recall: 0.84
    - mAP50: 0.824
 
-2. **YOLOv8**:
-   - Enhanced multi-scale feature fusion
-   - Lightweight and efficient architecture
+2. **YOLOv8n**:
+   - **Metrics**:
+     - **Precision**: 0.8644
+     - **Recall**: 0.8552
+     - **mAP50**: 0.9048
+     - **mAP50-95**: 0.8701
+     - **Fitness**: 0.8736
+   - **Performance**:
+     - Lightweight and efficient architecture
+     - Excellent performance across precision and recall metrics
 
 3. **Faster R-CNN**:
    - mAP: 0.7348
@@ -67,8 +74,8 @@ Using **deep learning models**, this project detects leukocytes with bounding bo
    - F1 Score: 0.4310
 
 ### Results Summary
-- YOLOv8 demonstrated the best real-time detection efficiency.
-- UNET + MEDSAM achieved high segmentation performance.
+- YOLOv8n achieved the highest detection metrics, with a precision of **0.8644** and mAP50 of **0.9048**, making it the most efficient and accurate model for this task.
+- UNET + MEDSAM showed superior segmentation performance with a test F1 Score of **0.9158**.
 
 ---
 
