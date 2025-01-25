@@ -24,7 +24,7 @@ Hematology, the study of blood diseases, has traditionally relied on manual exam
 - Prone to diagnostic disparities
 
 Using **deep learning models**, this project detects leukocytes with bounding boxes and classifies them into **23 distinct classes**, streamlining the diagnostic process.
-
+https://github.com/Warz1154/Leukocytes-Detection-and-Classification-from-Blood-Smear-Images-using-deep-learning-models-/blob/main/Images/histopathology.jpg
 ---
 
 ## Data Exploration and Preprocessing
